@@ -1,0 +1,39 @@
+#customers{
+  width: 100%;
+  text-align: left;
+}
+
+
+.linha{
+background-color: #FFA500;
+}
+
+.linha th{
+  padding: 30px 2px;
+  font-size: large;
+}
+
+.conteudo td{
+  font-size: 22px;
+}
+
+.conteudo td img{
+height: 400px;
+
+}
+
+.div-image {
+  display: flex;
+  align-items: center;
+
+}
+
+.div-image .texto{
+margin-left: 100px;
+max-width: 470px;
+}
+
+.texto .detalhe{
+  font-size: 19px;
+}
+

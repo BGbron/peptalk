@@ -1,0 +1,29 @@
+.produtos{
+    color: orange;
+}
+.lado{
+    display: flex !important;
+    align-items: center;
+}
+.texto{
+    color: orange !important
+}
+.borda{
+    border: none;
+}
+
+.preco{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.dividir{
+    margin-top: 100px;
+}
+
+.seila{
+display: flex;
+justify-content: center;
+}
